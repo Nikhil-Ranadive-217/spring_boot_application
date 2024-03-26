@@ -1,7 +1,7 @@
 # spring_boot_application
 REST Service using Spring Boot 
 
-In this applcaition 
+In this application \n
 We have tried REST endpoints
 Customs Exceptions handling
 Connecting to H2 database using JPA
